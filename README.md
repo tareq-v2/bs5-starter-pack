@@ -1,1 +1,1 @@
-# bs5-starter-pack
+# bs5-pack
